@@ -32,6 +32,8 @@ public class FirstNPrimeNumbers {
             n++;
             b = 0;
         }
+
         System.out.println();
+
     }
 }
