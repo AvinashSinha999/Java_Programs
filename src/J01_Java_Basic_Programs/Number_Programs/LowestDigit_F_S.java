@@ -27,5 +27,6 @@ public class LowestDigit_F_S {
         System.out.println("\nFirst Lowest Digit of " + temp + " is : " + firstMin);
 
         System.out.println("\nSecond Lowest Digit of " + temp + " is : " + secondMin);
+
     }
 }
