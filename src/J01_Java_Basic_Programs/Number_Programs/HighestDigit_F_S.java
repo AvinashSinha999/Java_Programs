@@ -27,5 +27,6 @@ public class HighestDigit_F_S {
         System.out.println("\nFirst Highest Digit of " + temp + " is : " + firstMax);
 
         System.out.println("\nSecond Highest Digit of " + temp + " is : " + secondMax);
+
     }
 }
