@@ -18,7 +18,7 @@ public class OddAndEven_2 {
             System.out.println("\n" + temp + " is an Even Number");
         } else {
             System.out.println("\n" + temp + " is an Odd Number");
-
         }
+
     }
 }
