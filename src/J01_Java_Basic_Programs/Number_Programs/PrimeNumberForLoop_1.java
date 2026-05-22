@@ -25,5 +25,6 @@ public class PrimeNumberForLoop_1 {
         } else {
             System.out.println("\n" + num + " is not a Prime Number");
         }
+
     }
 }
