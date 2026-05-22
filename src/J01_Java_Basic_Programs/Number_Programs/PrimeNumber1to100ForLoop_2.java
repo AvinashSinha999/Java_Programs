@@ -21,5 +21,6 @@ public class PrimeNumber1to100ForLoop_2 {
                 }
             }
         }
+
     }
 }
