@@ -10,7 +10,19 @@ public class Reverse_String_2 {
         System.out.print("\nInput the String : ");
         String name = sc.next();
 
+        //=========================================== WITHOUT ARRAY ===========================================
+
+        System.out.print("\nOutput String is : ");
+
+        for (int i = name.length() - 1; i >= 0; i--) {
+            System.out.print(name.charAt(i));
+        }
+
+        System.out.println();
+
         //=========================================== CHARACTER ARRAY ===========================================
+
+/*
 
         char[] arr = name.toCharArray();
 
@@ -18,10 +30,11 @@ public class Reverse_String_2 {
 
         for (int i = arr.length - 1; i >= 0; i--) {
             System.out.print(arr[i]);
-            //System.out.print(name.charAt(i));
         }
 
         System.out.println();
+
+ */
 
         //=========================================== STRING BUILDER ===========================================
 
