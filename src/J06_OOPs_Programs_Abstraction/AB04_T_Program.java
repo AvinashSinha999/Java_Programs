@@ -1,3 +1,8 @@
+/*
+    Abstraction: A class that cannot be created directly using abstract keyword.
+                 Forces child classes to implement abstract methods.
+*/
+
 package J06_OOPs_Programs_Abstraction;
 
 public class AB04_T_Program {
