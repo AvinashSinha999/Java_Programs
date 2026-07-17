@@ -2,7 +2,7 @@ package J18_Collection_Framework.List;
 
 import java.util.ArrayList;
 
-public class CFL12_UniqueNumber {
+public class CFL13_UniqueNumber {
     public static void main(String[] args) {
 
         int[] a = {4, 5, 5, 5, 4, 6, 6, 9, 4};
