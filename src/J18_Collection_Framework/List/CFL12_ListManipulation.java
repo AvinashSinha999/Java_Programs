@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
-public class CFL11_ListManipulation {
+public class CFL12_ListManipulation {
     public static void main(String[] args) {
 
         List<Integer> numberList1 = Arrays.asList(1, 22, 32, null, 123, 100);

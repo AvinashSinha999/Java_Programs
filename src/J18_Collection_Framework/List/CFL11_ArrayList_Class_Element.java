@@ -3,14 +3,14 @@ package J18_Collection_Framework.List;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CFL10_ArrayList_Class_Element {
+public class CFL11_ArrayList_Class_Element {
     public static void main(String[] args) {
 
-        CFL10_Student s1 = new CFL10_Student("Amit", "1");
-        CFL10_Student s2 = new CFL10_Student("Ritwik", "2");
-        CFL10_Student s3 = new CFL10_Student("Shubham", "3");
+        CFL11_Student s1 = new CFL11_Student("Amit", "1");
+        CFL11_Student s2 = new CFL11_Student("Ritwik", "2");
+        CFL11_Student s3 = new CFL11_Student("Shubham", "3");
 
-        List<CFL10_Student> myStudents = new ArrayList();
+        List<CFL11_Student> myStudents = new ArrayList();
         // List<CFL10_Student> myStudents = new LinkedList();         // Any class under the List Interface is possible
         // List<CFL10_Student> myStudents = new Vector();             // Any class under the List Interface is possible
         // List<CFL10_Student> myStudents = new Stack<>();            // Any class under the List Interface is possible

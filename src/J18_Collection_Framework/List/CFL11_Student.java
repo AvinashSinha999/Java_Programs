@@ -1,11 +1,11 @@
 package J18_Collection_Framework.List;
 
-public class CFL10_Student {
+public class CFL11_Student {
 
     private String name;
     private String rollNo;
 
-    public CFL10_Student(String name_c, String rollNo_c) {
+    public CFL11_Student(String name_c, String rollNo_c) {
         this.name = name_c;
         this.rollNo = rollNo_c;
     }
@@ -33,7 +33,7 @@ public class CFL10_Student {
 
     @Override
     public String toString() {
-        return "CFL10_Student{" +
+        return "CFL11_Student{" +
                 "name='" + name + '\'' +
                 ", rollNo='" + rollNo + '\'' +
                 '}';
