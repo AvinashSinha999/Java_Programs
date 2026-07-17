@@ -3,17 +3,17 @@ package J01_Java_Basic_Programs.Array_Programs;
 public class Array_HighestValue_F_S {
     public static void main(String[] args) {
 
-        int[] numb = {44, 23, 58, 88, 69, 96, 45, 76, 83, 99};
+        int[] numbers = {44, 23, 58, 88, 69, 96, 45, 76, 83, 99};
 
         int firstMax = Integer.MIN_VALUE;           // int firstMax = numb[0];
         int secondMax = Integer.MIN_VALUE;          // int secondMax = 0;
 
-        for (int i = 0; i < numb.length; i++) {
-            if (numb[i] > firstMax) {
+        for (int i = 0; i < numbers.length; i++) {
+            if (numbers[i] > firstMax) {
                 secondMax = firstMax;
-                firstMax = numb[i];
-            } else if ((numb[i] > secondMax) && (numb[i] != firstMax)) {
-                secondMax = numb[i];
+                firstMax = numbers[i];
+            } else if ((numbers[i] > secondMax) && (numbers[i] != firstMax)) {
+                secondMax = numbers[i];
             }
         }
 

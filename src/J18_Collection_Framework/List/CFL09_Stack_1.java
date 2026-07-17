@@ -2,7 +2,7 @@ package J18_Collection_Framework.List;
 
 import java.util.Stack;
 
-public class CFL09_Stack {
+public class CFL09_Stack_1 {
     public static void main(String[] args) {
 
         Stack stack = new Stack();
