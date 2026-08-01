@@ -1,3 +1,7 @@
+/*
+    Encapsulation: Hiding internal data of a class using access modifiers and exposing it only through getters and setters.
+*/
+
 package J05_OOPs_Programs_Encapsulation;
 
 public class EC01_Program {
