@@ -1,6 +1,12 @@
-package J03_OOPs_Programs_Inheritance;
+/*
+  Inheritance : A child class inherits properties and methods from a parent class using extends keyword.
 
-//------------------------------ SINGLE INHERITANCE ------------------------------
+  ------------------------------ SINGLE INHERITANCE ------------------------------
+
+  - One child class inherits from one parent class.
+*/
+
+package J03_OOPs_Programs_Inheritance;
 
 public class IN01_T_Program {
     public static void main(String[] args) {
