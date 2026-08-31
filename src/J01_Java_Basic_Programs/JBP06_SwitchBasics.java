@@ -1,3 +1,8 @@
+/*
+  switch Statement: Matches a value against multiple cases and runs the matching block.
+                    Cleaner than ladder if else is when checking one variable against many values.
+*/
+
 package J01_Java_Basic_Programs;
 
 import java.util.Scanner;
