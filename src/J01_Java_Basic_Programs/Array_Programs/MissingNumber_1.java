@@ -1,6 +1,6 @@
 package J01_Java_Basic_Programs.Array_Programs;
 
-public class MissingNumber {
+public class MissingNumber_1 {
     public static void main(String[] args) {
 
         int[] arr = new int[99];
